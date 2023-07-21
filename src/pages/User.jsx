@@ -56,14 +56,14 @@ function User() {
                 <div className="custom-card-image mb-6 md:mb-0">
                     <div className="rounded-lg shadow-xl card image-full">
                         <figure>
-                            <img src={avatar_url} alt="" />
+                            <img src={avatar_url} alt="User profile" />
                         </figure>
-                        <div className="card-body justify-end">
+                        {/* <div className="card-body justify-end">
                             <h2 className="card-title mb-0">
                                 {name}
                             </h2>
                             <p>{login}</p>
-                        </div>
+                        </div> */}
                     </div>
                 </div>
                 <div className="col-span-2">
