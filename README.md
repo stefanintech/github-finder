@@ -1,5 +1,5 @@
 # <a target="_blank" href="https://githubdiscovery.vercel.app/">GitHub Discovery</a> 🔎
-<a href="https://githubdiscovery.vercel.app/" target="_blank"><img src="https://github.com/codewithfan/github-finder/blob/main/public/github-discovery.gif"></a>
+<a href="https://githubdiscovery.vercel.app/" target="_blank"><img src="https://github.com/stefanintech/github-finder/blob/main/public/github-discovery.gif"></a>
 
 GitHub Discovery is your gateway to the vast GitHub universe, utilizing advanced React technology to streamline the task of researching potential collaborators, competitors, or hires. This powerful, secure tool offers swift, comprehensive data retrieval, making it an indispensable assistant for recruiters, developers, and businesses navigating the extensive terrain of GitHub.
 
@@ -18,13 +18,13 @@ Being able to bookmark a user that you searched to reference. From a recruiter s
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
 ## Examples ⤵️
-Take a look at my other projects that I have in my own portfolio:
+Take a look at the other projects that I have in my own portfolio:
 
-**Feedback Fountain:** https://github.com/codewithfan/feedback-app
+**Feedback Fountain:** https://github.com/stefanintech/feedback-app
 
-**Guam Stargazer Society:** https://github.com/codewithfan/nasa-pod
+**Guam Stargazer Society:** https://github.com/stefanintech/nasa-pod
 
-**Tic Tac Toe:** https://github.com/codewithfan/tic-tac-toe
+**Tic Tac Toe:** https://github.com/stefanintech/tic-tac-toe
 
 
 
